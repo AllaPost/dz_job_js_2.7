@@ -81,7 +81,7 @@ forEachArray( OffNumbers, printElement);
 
 // Задание 6: Развернуть массив
 
-let numbers0 = [1, 2, 3, 4, 5]; 
+let numbers0 = [1, 2, 3, 4, 5, 6]; 
 
 function reverseArray(arr) {
     let reversed = []; 
